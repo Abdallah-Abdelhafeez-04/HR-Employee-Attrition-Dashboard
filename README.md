@@ -109,21 +109,6 @@ The project uses an HR Employee Attrition dataset containing employee demographi
 - Workforce demographic analysis.
 - Department performance comparison.
 
----
-
-## Dashboard Preview
-
-> Add screenshots inside the **Images** folder.
-
-Example:
-
-```
-Images/
-│── Dashboard Overview.png
-│── Department Analysis.png
-│── Employee Demographics.png
-│── Attrition Insights.png
-```
 
 ---
 
@@ -134,12 +119,11 @@ HR-Employee-Attrition-Dashboard
 │
 ├── Dashboard.pbix
 ├── Images
-│   ├── Dashboard Overview.png
-│   ├── Department Analysis.png
-│   ├── Employee Demographics.png
-│   └── Attrition Insights.png
+│   ├── Dashboard .png
+│   ├── Key insights .png
+│   └── key Insights 2.png
 ├── README.md
-└── LICENSE
+
 ```
 
 ---
@@ -166,6 +150,6 @@ GitHub:
 https://github.com/Abdallah-Abdelhafeez-04
 
 LinkedIn:
-(Add your LinkedIn URL)
+https://www.linkedin.com/in/abdallah-abdelhafeez-197404374/
 
 ---
